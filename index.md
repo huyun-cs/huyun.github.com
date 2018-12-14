@@ -1,6 +1,6 @@
 ## Welcome to my homepages
 
-思想传播
+
 
 You can use the [editor on GitHub](https://github.com/huyun-cs/huyun.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
